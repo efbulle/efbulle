@@ -10,8 +10,8 @@ Bienvenue sur mon profil ! Je suis un développeur Python passionné par la cré
 
 ## 📚 Mes projets
 
-### [Cartographie Interactive](https://efbulle.github.io/cartes_demo/)
-Un projet de carte interactive que j'ai développé.
+### [Cartographie Interactive](https://efbulle.github.io/cartes_multicouches/)
+Un projet de cartes interactives que j'ai développé.
 
 ## 📬 Me contacter
 
