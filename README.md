@@ -15,8 +15,8 @@ Un projet de cartes interactives que j'ai développé.
 
 ## 📬 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-favre-bulle) - Connectez-vous avec moi sur LinkedIn
-- 🌐 [Portfolio](https://github.com/efbulle/cartes_demo) - Découvrez mes projets
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-favre-bulle) - Connectez-vous avec moi sur LinkedIn
+- 🌐 [Portfolio](https://github.com/efbulle/cartes_multicouches) - Découvrez mes projets
 
 ---
 
